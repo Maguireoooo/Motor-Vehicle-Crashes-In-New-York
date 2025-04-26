@@ -50,6 +50,8 @@ For Question 2, based on our heat map, Queens, Brooklyn, and the Bronx were the 
 
 Overall, through organizing, manipulating, and cleaning up the data, we were capable of finding noticeable trends that we needed about where and when most dangerous and deadly crashes occurred within New York City. Through focus on quantitative data like injury rate and number of crashes to show the most dangerous areas for pedestrians in this graph. You would be able to take these data points and become a little more informed on the safe vs unsafe areas to live in NYC to be able to make better decisions on where to live. Our plots (shown below) made it visually simple for us to notice which most dangerous boroughs, hour of day, and vehicles had been involved with ease. We can use our findings to help city officials to better decide upon areas to increase roads and to better protect pedestrians. In the years to come, even more accurate information could make New York City even safer for everyone.
 
+<img width="792" alt="Question 1 Graph" src="https://github.com/user-attachments/assets/d44bfcf2-aa9d-4e83-9bd8-e68426c59926" /> <img width="792" alt="Question 2 Graph" src="https://github.com/user-attachments/assets/926abdfd-b475-47ef-a9ea-9264b29021bc" />
+
 
 # Tableau Packaged Workbook:
 
